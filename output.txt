@@ -1,0 +1,4492 @@
+TCPD CLIENT waiting on port # 9000
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+RTO:6000.000000
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:0
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:1
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:2
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ 3/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:3
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ 3/ 4/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:4
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ 3/ 4/ 5/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:5
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ 3/ 4/ 5/ 6/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:6
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ 3/ 4/ 5/ 6/ 7/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:7
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:8
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[0] 
+0/ 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:9
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843563.965814
+--start is : 1330843563.965704
+--diff is 110.000000
+Packet 0 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9/ 10/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:10
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843563.966308
+--start is : 1330843563.966249
+--diff is 59.000000
+Packet 1 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.966489
+--start is : 1330843563.966249
+--diff is 240.000000
+Packet 2 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 3/ 4/ 5/ 6/ 7/ 8/ 9/ 10/ 11/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:11
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843563.966871
+--start is : 1330843563.966823
+--diff is 48.000000
+Packet 3 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 4/ 5/ 6/ 7/ 8/ 9/ 10/ 11/ 12/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:12
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 4/ 5/ 6/ 7/ 8/ 9/ 10/ 11/ 12/ 13/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:13
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843563.967785
+--start is : 1330843563.967567
+--diff is 218.000000
+Packet 4 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 5/ 6/ 7/ 8/ 9/ 10/ 11/ 12/ 13/ 14/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:14
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 5/ 6/ 7/ 8/ 9/ 10/ 11/ 12/ 13/ 14/ 15/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:15
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 5/ 6/ 7/ 8/ 9/ 10/ 11/ 12/ 13/ 14/ 15/ 16/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:16
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843563.969220
+--start is : 1330843563.969164
+--diff is 56.000000
+Packet 5 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 6/ 7/ 8/ 9/ 10/ 11/ 12/ 13/ 14/ 15/ 16/ 17/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:17
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 6/ 7/ 8/ 9/ 10/ 11/ 12/ 13/ 14/ 15/ 16/ 17/ 18/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:18
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843563.971851
+--start is : 1330843563.970054
+--diff is 1797.000000
+Packet 6 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.972084
+--start is : 1330843563.970054
+--diff is 2030.000000
+Packet 7 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.972348
+--start is : 1330843563.970054
+--diff is 2294.000000
+Packet 8 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.972499
+--start is : 1330843563.970054
+--diff is 2445.000000
+Packet 9 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.972972
+--start is : 1330843563.970054
+--diff is 2918.000000
+Packet 10 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.973779
+--start is : 1330843563.970054
+--diff is 3725.000000
+Packet 11 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.974213
+--start is : 1330843563.970054
+--diff is 4159.000000
+Packet 12 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.974725
+--start is : 1330843563.970054
+--diff is 4671.000000
+Packet 13 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.975228
+--start is : 1330843563.970054
+--diff is 5174.000000
+Packet 14 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.975773
+--start is : 1330843563.970054
+--diff is 5719.000000
+Packet 15 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.976312
+--start is : 1330843563.970054
+--diff is 6258.000000
+Packet 16 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843563.976784
+--start is : 1330843563.970054
+--diff is 6730.000000
+Packet 17 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 18
+
+ PACKET TO RESEND FROM THE BUFFER 18
+
+Packet 18 RESENT to troll 
+Seq No of timer:18
+
+--end is : 1330843564.804101
+--start is : 1330843564.802455
+--diff is 1646.000000
+Packet 18 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[19] 
+19/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:19
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[19] 
+19/ 20/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:20
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[19] 
+19/ 20/ 21/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:21
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[19] 
+19/ 20/ 21/ 22/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:22
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[19] 
+19/ 20/ 21/ 22/ 23/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:23
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[19] 
+19/ 20/ 21/ 22/ 23/ 24/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:24
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[19] 
+19/ 20/ 21/ 22/ 23/ 24/ 25/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:25
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843564.807609
+--start is : 1330843564.807532
+--diff is 77.000000
+Packet 19 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 20/ 21/ 22/ 23/ 24/ 25/ 26/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:26
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 20/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:27
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 20/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:28
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 20/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:29
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 20/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:30
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 20/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ 31/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:31
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843564.810518
+--start is : 1330843564.810394
+--diff is 124.000000
+Packet 20 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ 31/ 32/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:32
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ 31/ 32/ 33/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:33
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 21/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ 31/ 32/ 33/ 34/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:34
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843564.811954
+--start is : 1330843564.811878
+--diff is 76.000000
+Packet 21 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ 31/ 32/ 33/ 34/ 35/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:35
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 22/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ 31/ 32/ 33/ 34/ 35/ 36/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:36
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843564.812934
+--start is : 1330843564.812857
+--diff is 77.000000
+Packet 22 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 23/ 24/ 25/ 26/ 27/ 28/ 29/ 30/ 31/ 32/ 33/ 34/ 35/ 36/ 37/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:37
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843564.814615
+--start is : 1330843564.813361
+--diff is 1254.000000
+Packet 23 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843564.815162
+--start is : 1330843564.813361
+--diff is 1801.000000
+Packet 24 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843564.815794
+--start is : 1330843564.813361
+--diff is 2433.000000
+Packet 25 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843564.816315
+--start is : 1330843564.813361
+--diff is 2954.000000
+Packet 26 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843564.816800
+--start is : 1330843564.813361
+--diff is 3439.000000
+Packet 27 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843564.817388
+--start is : 1330843564.813361
+--diff is 4027.000000
+Packet 28 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843564.818104
+--start is : 1330843564.813361
+--diff is 4743.000000
+Packet 29 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 36
+
+ PACKET TO RESEND FROM THE BUFFER 36
+
+Packet 36 RESENT to troll 
+Seq No of timer:36
+
+TIMER EXPIRED FOR PACKET 35
+
+ PACKET TO RESEND FROM THE BUFFER 35
+
+Packet 35 RESENT to troll 
+Seq No of timer:35
+
+TIMER EXPIRED FOR PACKET 31
+
+ PACKET TO RESEND FROM THE BUFFER 31
+
+Packet 31 RESENT to troll 
+Seq No of timer:31
+
+TIMER EXPIRED FOR PACKET 30
+
+ PACKET TO RESEND FROM THE BUFFER 30
+
+Packet 30 RESENT to troll 
+Seq No of timer:30
+
+TIMER EXPIRED FOR PACKET 32
+
+ PACKET TO RESEND FROM THE BUFFER 32
+
+Packet 32 RESENT to troll 
+Seq No of timer:32
+
+TIMER EXPIRED FOR PACKET 33
+
+ PACKET TO RESEND FROM THE BUFFER 33
+
+Packet 33 RESENT to troll 
+Seq No of timer:33
+
+TIMER EXPIRED FOR PACKET 34
+
+ PACKET TO RESEND FROM THE BUFFER 34
+
+Packet 34 RESENT to troll 
+Seq No of timer:34
+
+TIMER EXPIRED FOR PACKET 37
+
+ PACKET TO RESEND FROM THE BUFFER 37
+
+Packet 37 RESENT to troll 
+Seq No of timer:37
+
+--end is : 1330843565.720737
+--start is : 1330843565.703358
+--diff is 17379.000000
+Packet 30 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843565.721220
+--start is : 1330843565.703358
+--diff is 17862.000000
+Packet 31 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843565.721642
+--start is : 1330843565.703358
+--diff is 18284.000000
+Packet 32 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843565.722129
+--start is : 1330843565.703358
+--diff is 18771.000000
+Packet 33 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843565.722716
+--start is : 1330843565.703358
+--diff is 19358.000000
+Packet 34 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 37
+
+ PACKET TO RESEND FROM THE BUFFER 37
+
+Packet 37 RESENT to troll 
+Seq No of timer:37
+
+--end is : 1330843566.144173
+--start is : 1330843566.142341
+--diff is 1832.000000
+Packet 35 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 36
+
+ PACKET TO RESEND FROM THE BUFFER 36
+
+Packet 36 RESENT to troll 
+Seq No of timer:36
+
+--end is : 1330843566.293751
+--start is : 1330843566.292302
+--diff is 1449.000000
+Packet 36 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 37
+
+ PACKET TO RESEND FROM THE BUFFER 37
+
+Packet 37 RESENT to troll 
+Seq No of timer:37
+
+--end is : 1330843566.664324
+--start is : 1330843566.662209
+--diff is 2115.000000
+Packet 37 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[38] 
+38/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:38
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[38] 
+38/ 39/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:39
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[38] 
+38/ 39/ 40/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:40
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[38] 
+38/ 39/ 40/ 41/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:41
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.666499
+--start is : 1330843566.666426
+--diff is 73.000000
+Packet 38 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 39/ 40/ 41/ 42/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:42
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 39/ 40/ 41/ 42/ 43/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:43
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.667384
+--start is : 1330843566.667331
+--diff is 53.000000
+Packet 39 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 40/ 41/ 42/ 43/ 44/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:44
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.667816
+--start is : 1330843566.667758
+--diff is 58.000000
+Packet 40 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 41/ 42/ 43/ 44/ 45/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:45
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 41/ 42/ 43/ 44/ 45/ 46/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:46
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 41/ 42/ 43/ 44/ 45/ 46/ 47/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:47
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 41/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:48
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 41/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:49
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 41/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ 50/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:50
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 41/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ 50/ 51/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:51
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.671185
+--start is : 1330843566.670983
+--diff is 202.000000
+Packet 41 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ 50/ 51/ 52/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:52
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ 50/ 51/ 52/ 53/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:53
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ 50/ 51/ 52/ 53/ 54/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:54
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ 50/ 51/ 52/ 53/ 54/ 55/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:55
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 42/ 43/ 44/ 45/ 46/ 47/ 48/ 49/ 50/ 51/ 52/ 53/ 54/ 55/ 56/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:56
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843566.673794
+--start is : 1330843566.673378
+--diff is 416.000000
+Packet 42 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.674013
+--start is : 1330843566.673378
+--diff is 635.000000
+Packet 43 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.674177
+--start is : 1330843566.673378
+--diff is 799.000000
+Packet 44 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.674338
+--start is : 1330843566.673378
+--diff is 960.000000
+Packet 45 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.674498
+--start is : 1330843566.673378
+--diff is 1120.000000
+Packet 46 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.674652
+--start is : 1330843566.673378
+--diff is 1274.000000
+Packet 47 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.674812
+--start is : 1330843566.673378
+--diff is 1434.000000
+Packet 48 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.674974
+--start is : 1330843566.673378
+--diff is 1596.000000
+Packet 49 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.675548
+--start is : 1330843566.673378
+--diff is 2170.000000
+Packet 50 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.676131
+--start is : 1330843566.673378
+--diff is 2753.000000
+Packet 51 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.676532
+--start is : 1330843566.673378
+--diff is 3154.000000
+Packet 52 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.677020
+--start is : 1330843566.673378
+--diff is 3642.000000
+Packet 53 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.677573
+--start is : 1330843566.673378
+--diff is 4195.000000
+Packet 54 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.678052
+--start is : 1330843566.673378
+--diff is 4674.000000
+Packet 55 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.678590
+--start is : 1330843566.673378
+--diff is 5212.000000
+Packet 56 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[57] 
+57/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:57
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[57] 
+57/ 58/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:58
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[57] 
+57/ 58/ 59/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:59
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[57] 
+57/ 58/ 59/ 60/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:60
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[57] 
+57/ 58/ 59/ 60/ 61/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:61
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.694273
+--start is : 1330843566.694200
+--diff is 73.000000
+Packet 57 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 58/ 59/ 60/ 61/ 62/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:62
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.694722
+--start is : 1330843566.694673
+--diff is 49.000000
+Packet 58 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 59/ 60/ 61/ 62/ 63/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:63
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.695183
+--start is : 1330843566.695124
+--diff is 59.000000
+Packet 59 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 60/ 61/ 62/ 63/ 64/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:64
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.695655
+--start is : 1330843566.695596
+--diff is 59.000000
+Packet 60 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 61/ 62/ 63/ 64/ 65/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:65
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.696176
+--start is : 1330843566.696042
+--diff is 134.000000
+Packet 61 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 62/ 63/ 64/ 65/ 66/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:66
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.696673
+--start is : 1330843566.696599
+--diff is 74.000000
+Packet 62 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 63/ 64/ 65/ 66/ 67/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:67
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 63/ 64/ 65/ 66/ 67/ 68/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:68
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 63/ 64/ 65/ 66/ 67/ 68/ 69/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:69
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.698078
+--start is : 1330843566.698001
+--diff is 77.000000
+Packet 63 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 64/ 65/ 66/ 67/ 68/ 69/ 70/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:70
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.698645
+--start is : 1330843566.698450
+--diff is 195.000000
+Packet 64 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 65/ 66/ 67/ 68/ 69/ 70/ 71/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:71
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.699227
+--start is : 1330843566.698971
+--diff is 256.000000
+Packet 65 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 66/ 67/ 68/ 69/ 70/ 71/ 72/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:72
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 66/ 67/ 68/ 69/ 70/ 71/ 72/ 73/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:73
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 66/ 67/ 68/ 69/ 70/ 71/ 72/ 73/ 74/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:74
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.700821
+--start is : 1330843566.700738
+--diff is 83.000000
+Packet 66 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 67/ 68/ 69/ 70/ 71/ 72/ 73/ 74/ 75/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:75
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843566.701419
+--start is : 1330843566.701190
+--diff is 229.000000
+Packet 67 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.702213
+--start is : 1330843566.701190
+--diff is 1023.000000
+Packet 68 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.703491
+--start is : 1330843566.701190
+--diff is 2301.000000
+Packet 69 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.704158
+--start is : 1330843566.701190
+--diff is 2968.000000
+Packet 70 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.704777
+--start is : 1330843566.701190
+--diff is 3587.000000
+Packet 71 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.705987
+--start is : 1330843566.701190
+--diff is 4797.000000
+Packet 72 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.706919
+--start is : 1330843566.701190
+--diff is 5729.000000
+Packet 73 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.707861
+--start is : 1330843566.701190
+--diff is 6671.000000
+Packet 74 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.708929
+--start is : 1330843566.701190
+--diff is 7739.000000
+Packet 75 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[76] 
+76/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:76
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[76] 
+76/ 77/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:77
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[76] 
+76/ 77/ 78/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:78
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[76] 
+76/ 77/ 78/ 79/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:79
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.713918
+--start is : 1330843566.713775
+--diff is 143.000000
+Packet 76 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 77/ 78/ 79/ 80/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:80
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.714566
+--start is : 1330843566.714364
+--diff is 202.000000
+Packet 77 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 78/ 79/ 80/ 81/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:81
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 78/ 79/ 80/ 81/ 82/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:82
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.715463
+--start is : 1330843566.715409
+--diff is 54.000000
+Packet 78 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 79/ 80/ 81/ 82/ 83/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:83
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.715951
+--start is : 1330843566.715901
+--diff is 50.000000
+Packet 79 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 80/ 81/ 82/ 83/ 84/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:84
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 80/ 81/ 82/ 83/ 84/ 85/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:85
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.716785
+--start is : 1330843566.716701
+--diff is 84.000000
+Packet 80 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 81/ 82/ 83/ 84/ 85/ 86/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:86
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.717246
+--start is : 1330843566.717161
+--diff is 85.000000
+Packet 81 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 82/ 83/ 84/ 85/ 86/ 87/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:87
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 82/ 83/ 84/ 85/ 86/ 87/ 88/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:88
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.718123
+--start is : 1330843566.718045
+--diff is 78.000000
+Packet 82 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 83/ 84/ 85/ 86/ 87/ 88/ 89/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:89
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.718686
+--start is : 1330843566.718476
+--diff is 210.000000
+Packet 83 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 84/ 85/ 86/ 87/ 88/ 89/ 90/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:90
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 84/ 85/ 86/ 87/ 88/ 89/ 90/ 91/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:91
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.719814
+--start is : 1330843566.719733
+--diff is 81.000000
+Packet 84 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 85/ 86/ 87/ 88/ 89/ 90/ 91/ 92/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:92
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 85/ 86/ 87/ 88/ 89/ 90/ 91/ 92/ 93/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:93
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 85/ 86/ 87/ 88/ 89/ 90/ 91/ 92/ 93/ 94/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:94
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843566.721490
+--start is : 1330843566.721157
+--diff is 333.000000
+Packet 85 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.722369
+--start is : 1330843566.721157
+--diff is 1212.000000
+Packet 86 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.722597
+--start is : 1330843566.721157
+--diff is 1440.000000
+Packet 87 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.723310
+--start is : 1330843566.721157
+--diff is 2153.000000
+Packet 88 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.723888
+--start is : 1330843566.721157
+--diff is 2731.000000
+Packet 89 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.724381
+--start is : 1330843566.721157
+--diff is 3224.000000
+Packet 90 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.724948
+--start is : 1330843566.721157
+--diff is 3791.000000
+Packet 91 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.725505
+--start is : 1330843566.721157
+--diff is 4348.000000
+Packet 92 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.726118
+--start is : 1330843566.721157
+--diff is 4961.000000
+Packet 93 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.726564
+--start is : 1330843566.721157
+--diff is 5407.000000
+Packet 94 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[95] 
+95/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:95
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[95] 
+95/ 96/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:96
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[95] 
+95/ 96/ 97/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:97
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[95] 
+95/ 96/ 97/ 98/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:98
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[95] 
+95/ 96/ 97/ 98/ 99/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:99
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.734366
+--start is : 1330843566.734216
+--diff is 150.000000
+Packet 95 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 96/ 97/ 98/ 99/ 100/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:100
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 96/ 97/ 98/ 99/ 100/ 101/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:101
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.735314
+--start is : 1330843566.735234
+--diff is 80.000000
+Packet 96 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 97/ 98/ 99/ 100/ 101/ 102/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:102
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.735898
+--start is : 1330843566.735686
+--diff is 212.000000
+Packet 97 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 98/ 99/ 100/ 101/ 102/ 103/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:103
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 98/ 99/ 100/ 101/ 102/ 103/ 104/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:104
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.736959
+--start is : 1330843566.736849
+--diff is 110.000000
+Packet 98 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 99/ 100/ 101/ 102/ 103/ 104/ 105/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:105
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 99/ 100/ 101/ 102/ 103/ 104/ 105/ 106/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:106
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 99/ 100/ 101/ 102/ 103/ 104/ 105/ 106/ 107/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:107
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.738267
+--start is : 1330843566.738208
+--diff is 59.000000
+Packet 99 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 100/ 101/ 102/ 103/ 104/ 105/ 106/ 107/ 108/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:108
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 100/ 101/ 102/ 103/ 104/ 105/ 106/ 107/ 108/ 109/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:109
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843566.739149
+--start is : 1330843566.739083
+--diff is 66.000000
+Packet 100 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 101/ 102/ 103/ 104/ 105/ 106/ 107/ 108/ 109/ 110/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:110
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 101/ 102/ 103/ 104/ 105/ 106/ 107/ 108/ 109/ 110/ 111/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:111
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 101/ 102/ 103/ 104/ 105/ 106/ 107/ 108/ 109/ 110/ 111/ 112/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:112
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 101/ 102/ 103/ 104/ 105/ 106/ 107/ 108/ 109/ 110/ 111/ 112/ 113/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:113
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843566.741109
+--start is : 1330843566.741033
+--diff is 76.000000
+Packet 101 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.741910
+--start is : 1330843566.741033
+--diff is 877.000000
+Packet 102 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.742884
+--start is : 1330843566.741033
+--diff is 1851.000000
+Packet 103 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.743837
+--start is : 1330843566.741033
+--diff is 2804.000000
+Packet 104 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.744676
+--start is : 1330843566.741033
+--diff is 3643.000000
+Packet 105 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.745402
+--start is : 1330843566.741033
+--diff is 4369.000000
+Packet 106 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.746183
+--start is : 1330843566.741033
+--diff is 5150.000000
+Packet 107 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.746895
+--start is : 1330843566.741033
+--diff is 5862.000000
+Packet 108 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.747589
+--start is : 1330843566.741033
+--diff is 6556.000000
+Packet 109 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843566.748635
+--start is : 1330843566.741033
+--diff is 7602.000000
+Packet 110 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 111
+
+ PACKET TO RESEND FROM THE BUFFER 111
+
+Packet 111 RESENT to troll 
+Seq No of timer:111
+
+TIMER EXPIRED FOR PACKET 112
+
+ PACKET TO RESEND FROM THE BUFFER 112
+
+Packet 112 RESENT to troll 
+Seq No of timer:112
+
+TIMER EXPIRED FOR PACKET 113
+
+ PACKET TO RESEND FROM THE BUFFER 113
+
+Packet 113 RESENT to troll 
+Seq No of timer:113
+
+--end is : 1330843569.793847
+--start is : 1330843569.792414
+--diff is 1433.000000
+Packet 111 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.794723
+--start is : 1330843569.792414
+--diff is 2309.000000
+Packet 112 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.795227
+--start is : 1330843569.792414
+--diff is 2813.000000
+Packet 113 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[114] 
+114/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:114
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[114] 
+114/ 115/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:115
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[114] 
+114/ 115/ 116/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:116
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[114] 
+114/ 115/ 116/ 117/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:117
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843569.797532
+--start is : 1330843569.797437
+--diff is 95.000000
+Packet 114 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 115/ 116/ 117/ 118/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:118
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 115/ 116/ 117/ 118/ 119/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:119
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843569.798447
+--start is : 1330843569.798374
+--diff is 73.000000
+Packet 115 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 116/ 117/ 118/ 119/ 120/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:120
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 116/ 117/ 118/ 119/ 120/ 121/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:121
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843569.799392
+--start is : 1330843569.799332
+--diff is 60.000000
+Packet 116 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 117/ 118/ 119/ 120/ 121/ 122/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:122
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 117/ 118/ 119/ 120/ 121/ 122/ 123/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:123
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843569.800430
+--start is : 1330843569.800358
+--diff is 72.000000
+Packet 117 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 118/ 119/ 120/ 121/ 122/ 123/ 124/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:124
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 118/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:125
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 118/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ 126/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:126
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 118/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ 126/ 127/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:127
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843569.802377
+--start is : 1330843569.802181
+--diff is 196.000000
+Packet 118 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ 126/ 127/ 128/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:128
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ 126/ 127/ 128/ 129/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:129
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ 126/ 127/ 128/ 129/ 130/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:130
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ 126/ 127/ 128/ 129/ 130/ 131/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:131
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 119/ 120/ 121/ 122/ 123/ 124/ 125/ 126/ 127/ 128/ 129/ 130/ 131/ 132/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:132
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843569.804547
+--start is : 1330843569.804493
+--diff is 54.000000
+Packet 119 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.805009
+--start is : 1330843569.804493
+--diff is 516.000000
+Packet 120 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.805721
+--start is : 1330843569.804493
+--diff is 1228.000000
+Packet 121 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.806420
+--start is : 1330843569.804493
+--diff is 1927.000000
+Packet 122 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.807077
+--start is : 1330843569.804493
+--diff is 2584.000000
+Packet 123 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.807708
+--start is : 1330843569.804493
+--diff is 3215.000000
+Packet 124 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.808423
+--start is : 1330843569.804493
+--diff is 3930.000000
+Packet 125 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.809266
+--start is : 1330843569.804493
+--diff is 4773.000000
+Packet 126 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.810806
+--start is : 1330843569.804493
+--diff is 6313.000000
+Packet 127 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843569.811391
+--start is : 1330843569.804493
+--diff is 6898.000000
+Packet 128 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 129
+
+ PACKET TO RESEND FROM THE BUFFER 129
+
+Packet 129 RESENT to troll 
+Seq No of timer:129
+
+--end is : 1330843570.703674
+--start is : 1330843570.702121
+--diff is 1553.000000
+Packet 129 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 130
+
+ PACKET TO RESEND FROM THE BUFFER 130
+
+Packet 130 RESENT to troll 
+Seq No of timer:130
+
+--end is : 1330843570.853629
+--start is : 1330843570.852103
+--diff is 1526.000000
+Packet 130 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 131
+
+ PACKET TO RESEND FROM THE BUFFER 131
+
+Packet 131 RESENT to troll 
+Seq No of timer:131
+
+--end is : 1330843571.003951
+--start is : 1330843571.002068
+--diff is 1883.000000
+Packet 131 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 132
+
+ PACKET TO RESEND FROM THE BUFFER 132
+
+Packet 132 RESENT to troll 
+Seq No of timer:132
+
+--end is : 1330843571.153734
+--start is : 1330843571.152079
+--diff is 1655.000000
+Packet 132 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:133
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:134
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:135
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:136
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:137
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ 138/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:138
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ 138/ 139/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:139
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ 138/ 139/ 140/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:140
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ 138/ 139/ 140/ 141/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:141
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ 138/ 139/ 140/ 141/ 142/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:142
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ 138/ 139/ 140/ 141/ 142/ 143/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:143
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[133] 
+133/ 134/ 135/ 136/ 137/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:144
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843571.159968
+--start is : 1330843571.159894
+--diff is 74.000000
+Packet 133 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 134/ 135/ 136/ 137/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ 145/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:145
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 134/ 135/ 136/ 137/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ 145/ 146/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:146
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843571.161051
+--start is : 1330843571.160980
+--diff is 71.000000
+Packet 134 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 135/ 136/ 137/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ 145/ 146/ 147/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:147
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843571.161543
+--start is : 1330843571.161483
+--diff is 60.000000
+Packet 135 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 136/ 137/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ 145/ 146/ 147/ 148/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:148
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843571.162388
+--start is : 1330843571.161967
+--diff is 421.000000
+Packet 136 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 137/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ 145/ 146/ 147/ 148/ 149/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:149
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843571.163092
+--start is : 1330843571.163015
+--diff is 77.000000
+Packet 137 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ 145/ 146/ 147/ 148/ 149/ 150/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:150
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 138/ 139/ 140/ 141/ 142/ 143/ 144/ 145/ 146/ 147/ 148/ 149/ 150/ 151/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:151
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843571.163952
+--start is : 1330843571.163891
+--diff is 61.000000
+Packet 138 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.164207
+--start is : 1330843571.163891
+--diff is 316.000000
+Packet 139 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.164828
+--start is : 1330843571.163891
+--diff is 937.000000
+Packet 140 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.165671
+--start is : 1330843571.163891
+--diff is 1780.000000
+Packet 141 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.166113
+--start is : 1330843571.163891
+--diff is 2222.000000
+Packet 142 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.166302
+--start is : 1330843571.163891
+--diff is 2411.000000
+Packet 143 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.166782
+--start is : 1330843571.163891
+--diff is 2891.000000
+Packet 144 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.167194
+--start is : 1330843571.163891
+--diff is 3303.000000
+Packet 145 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.167699
+--start is : 1330843571.163891
+--diff is 3808.000000
+Packet 147 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.167910
+--start is : 1330843571.163891
+--diff is 4019.000000
+Packet 148 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.168077
+--start is : 1330843571.163891
+--diff is 4186.000000
+Packet 149 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.168235
+--start is : 1330843571.163891
+--diff is 4344.000000
+Packet 150 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843571.168396
+--start is : 1330843571.163891
+--diff is 4505.000000
+Packet 151 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 146
+
+ PACKET TO RESEND FROM THE BUFFER 146
+
+Packet 146 RESENT to troll 
+Seq No of timer:146
+
+--end is : 1330843572.043656
+--start is : 1330843572.042239
+--diff is 1417.000000
+Packet 146 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:152
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:153
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:154
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:155
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:156
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:157
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:158
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:159
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:160
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:161
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:162
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:163
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ 164/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:164
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ 164/ 165/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:165
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ 164/ 165/ 166/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:166
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ 164/ 165/ 166/ 167/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:167
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ 164/ 165/ 166/ 167/ 168/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:168
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ 164/ 165/ 166/ 167/ 168/ 169/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:169
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[152] 
+152/ 153/ 154/ 155/ 156/ 157/ 158/ 159/ 160/ 161/ 162/ 163/ 164/ 165/ 166/ 167/ 168/ 169/ 170/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:170
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843572.060201
+--start is : 1330843572.053110
+--diff is 7091.000000
+Packet 152 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.062066
+--start is : 1330843572.053110
+--diff is 8956.000000
+Packet 153 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.062252
+--start is : 1330843572.053110
+--diff is 9142.000000
+Packet 154 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.062422
+--start is : 1330843572.053110
+--diff is 9312.000000
+Packet 155 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.064152
+--start is : 1330843572.053110
+--diff is 11042.000000
+Packet 156 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.064320
+--start is : 1330843572.053110
+--diff is 11210.000000
+Packet 157 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.064507
+--start is : 1330843572.053110
+--diff is 11397.000000
+Packet 158 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.064672
+--start is : 1330843572.053110
+--diff is 11562.000000
+Packet 159 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843572.065317
+--start is : 1330843572.053110
+--diff is 12207.000000
+Packet 160 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 170
+
+ PACKET TO RESEND FROM THE BUFFER 170
+
+Packet 170 RESENT to troll 
+Seq No of timer:170
+
+TIMER EXPIRED FOR PACKET 169
+
+ PACKET TO RESEND FROM THE BUFFER 169
+
+Packet 169 RESENT to troll 
+Seq No of timer:169
+
+TIMER EXPIRED FOR PACKET 168
+
+ PACKET TO RESEND FROM THE BUFFER 168
+
+Packet 168 RESENT to troll 
+Seq No of timer:168
+
+TIMER EXPIRED FOR PACKET 167
+
+ PACKET TO RESEND FROM THE BUFFER 167
+
+Packet 167 RESENT to troll 
+Seq No of timer:167
+
+TIMER EXPIRED FOR PACKET 166
+
+ PACKET TO RESEND FROM THE BUFFER 166
+
+Packet 166 RESENT to troll 
+Seq No of timer:166
+
+TIMER EXPIRED FOR PACKET 165
+
+ PACKET TO RESEND FROM THE BUFFER 165
+
+Packet 165 RESENT to troll 
+Seq No of timer:165
+
+TIMER EXPIRED FOR PACKET 164
+
+ PACKET TO RESEND FROM THE BUFFER 164
+
+Packet 164 RESENT to troll 
+Seq No of timer:164
+
+TIMER EXPIRED FOR PACKET 163
+
+ PACKET TO RESEND FROM THE BUFFER 163
+
+Packet 163 RESENT to troll 
+Seq No of timer:163
+
+TIMER EXPIRED FOR PACKET 162
+
+ PACKET TO RESEND FROM THE BUFFER 162
+
+Packet 162 RESENT to troll 
+Seq No of timer:162
+
+TIMER EXPIRED FOR PACKET 161
+
+ PACKET TO RESEND FROM THE BUFFER 161
+
+Packet 161 RESENT to troll 
+Seq No of timer:161
+
+--end is : 1330843573.040070
+--start is : 1330843572.863960
+--diff is 176110.000000
+Packet 161 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 162
+
+ PACKET TO RESEND FROM THE BUFFER 162
+
+Packet 162 RESENT to troll 
+Seq No of timer:162
+
+TIMER EXPIRED FOR PACKET 163
+
+ PACKET TO RESEND FROM THE BUFFER 163
+
+Packet 163 RESENT to troll 
+Seq No of timer:163
+
+TIMER EXPIRED FOR PACKET 164
+
+ PACKET TO RESEND FROM THE BUFFER 164
+
+Packet 164 RESENT to troll 
+Seq No of timer:164
+
+TIMER EXPIRED FOR PACKET 165
+
+ PACKET TO RESEND FROM THE BUFFER 165
+
+Packet 165 RESENT to troll 
+Seq No of timer:165
+
+TIMER EXPIRED FOR PACKET 166
+
+ PACKET TO RESEND FROM THE BUFFER 166
+
+Packet 166 RESENT to troll 
+Seq No of timer:166
+
+TIMER EXPIRED FOR PACKET 167
+
+ PACKET TO RESEND FROM THE BUFFER 167
+
+Packet 167 RESENT to troll 
+Seq No of timer:167
+
+TIMER EXPIRED FOR PACKET 168
+
+ PACKET TO RESEND FROM THE BUFFER 168
+
+Packet 168 RESENT to troll 
+Seq No of timer:168
+
+TIMER EXPIRED FOR PACKET 169
+
+ PACKET TO RESEND FROM THE BUFFER 169
+
+Packet 169 RESENT to troll 
+Seq No of timer:169
+
+TIMER EXPIRED FOR PACKET 170
+
+ PACKET TO RESEND FROM THE BUFFER 170
+
+Packet 170 RESENT to troll 
+Seq No of timer:170
+
+--end is : 1330843573.414703
+--start is : 1330843573.413816
+--diff is 887.000000
+Packet 162 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.414904
+--start is : 1330843573.413816
+--diff is 1088.000000
+Packet 163 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.415068
+--start is : 1330843573.413816
+--diff is 1252.000000
+Packet 164 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.415698
+--start is : 1330843573.413816
+--diff is 1882.000000
+Packet 165 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.416013
+--start is : 1330843573.413816
+--diff is 2197.000000
+Packet 166 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.416592
+--start is : 1330843573.413816
+--diff is 2776.000000
+Packet 167 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.417168
+--start is : 1330843573.413816
+--diff is 3352.000000
+Packet 168 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.417711
+--start is : 1330843573.413816
+--diff is 3895.000000
+Packet 169 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.418298
+--start is : 1330843573.413816
+--diff is 4482.000000
+Packet 170 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:171
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:172
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:173
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:174
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:175
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ 176/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:176
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ 176/ 177/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:177
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ 176/ 177/ 178/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:178
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ 176/ 177/ 178/ 179/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:179
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ 176/ 177/ 178/ 179/ 180/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:180
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ 176/ 177/ 178/ 179/ 180/ 181/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:181
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[171] 
+171/ 172/ 173/ 174/ 175/ 176/ 177/ 178/ 179/ 180/ 181/ 182/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:182
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843573.424625
+--start is : 1330843573.424442
+--diff is 183.000000
+Packet 171 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 172/ 173/ 174/ 175/ 176/ 177/ 178/ 179/ 180/ 181/ 182/ 183/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:183
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843573.425140
+--start is : 1330843573.425089
+--diff is 51.000000
+Packet 172 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 173/ 174/ 175/ 176/ 177/ 178/ 179/ 180/ 181/ 182/ 183/ 184/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:184
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843573.425524
+--start is : 1330843573.425479
+--diff is 45.000000
+Packet 173 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 174/ 175/ 176/ 177/ 178/ 179/ 180/ 181/ 182/ 183/ 184/ 185/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:185
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843573.425900
+--start is : 1330843573.425852
+--diff is 48.000000
+Packet 174 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 175/ 176/ 177/ 178/ 179/ 180/ 181/ 182/ 183/ 184/ 185/ 186/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:186
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843573.426280
+--start is : 1330843573.426234
+--diff is 46.000000
+Packet 175 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 176/ 177/ 178/ 179/ 180/ 181/ 182/ 183/ 184/ 185/ 186/ 187/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:187
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843573.426687
+--start is : 1330843573.426629
+--diff is 58.000000
+Packet 176 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 177/ 178/ 179/ 180/ 181/ 182/ 183/ 184/ 185/ 186/ 187/ 188/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:188
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843573.427105
+--start is : 1330843573.427047
+--diff is 58.000000
+Packet 177 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 178/ 179/ 180/ 181/ 182/ 183/ 184/ 185/ 186/ 187/ 188/ 189/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:189
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843573.428232
+--start is : 1330843573.427436
+--diff is 796.000000
+Packet 178 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.428944
+--start is : 1330843573.427436
+--diff is 1508.000000
+Packet 179 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.429501
+--start is : 1330843573.427436
+--diff is 2065.000000
+Packet 180 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.430020
+--start is : 1330843573.427436
+--diff is 2584.000000
+Packet 181 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.430505
+--start is : 1330843573.427436
+--diff is 3069.000000
+Packet 182 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.431256
+--start is : 1330843573.427436
+--diff is 3820.000000
+Packet 183 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.431745
+--start is : 1330843573.427436
+--diff is 4309.000000
+Packet 184 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.432628
+--start is : 1330843573.427436
+--diff is 5192.000000
+Packet 185 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.433916
+--start is : 1330843573.427436
+--diff is 6480.000000
+Packet 186 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843573.434450
+--start is : 1330843573.427436
+--diff is 7014.000000
+Packet 187 Acknowledged- Deleted from the delta list 
+
+TIMER EXPIRED FOR PACKET 188
+
+ PACKET TO RESEND FROM THE BUFFER 188
+
+Packet 188 RESENT to troll 
+Seq No of timer:188
+
+TIMER EXPIRED FOR PACKET 189
+
+ PACKET TO RESEND FROM THE BUFFER 189
+
+Packet 189 RESENT to troll 
+Seq No of timer:189
+
+--end is : 1330843574.603694
+--start is : 1330843574.602324
+--diff is 1370.000000
+Packet 188 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.604168
+--start is : 1330843574.602324
+--diff is 1844.000000
+Packet 189 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[190] 
+190/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:190
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[190] 
+190/ 191/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:191
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[190] 
+190/ 191/ 192/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:192
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[190] 
+190/ 191/ 192/ 193/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:193
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[190] 
+190/ 191/ 192/ 193/ 194/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:194
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.606916
+--start is : 1330843574.606837
+--diff is 79.000000
+Packet 190 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.607102
+--start is : 1330843574.606837
+--diff is 265.000000
+Packet 191 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 192/ 193/ 194/ 195/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:195
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.607559
+--start is : 1330843574.607431
+--diff is 128.000000
+Packet 192 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 193/ 194/ 195/ 196/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:196
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 193/ 194/ 195/ 196/ 197/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:197
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.608500
+--start is : 1330843574.608407
+--diff is 93.000000
+Packet 193 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 194/ 195/ 196/ 197/ 198/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:198
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.608966
+--start is : 1330843574.608920
+--diff is 46.000000
+Packet 194 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 195/ 196/ 197/ 198/ 199/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:199
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.609390
+--start is : 1330843574.609331
+--diff is 59.000000
+Packet 195 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 196/ 197/ 198/ 199/ 200/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:200
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 196/ 197/ 198/ 199/ 200/ 201/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:201
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 196/ 197/ 198/ 199/ 200/ 201/ 202/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:202
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.610808
+--start is : 1330843574.610754
+--diff is 54.000000
+Packet 196 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 197/ 198/ 199/ 200/ 201/ 202/ 203/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:203
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 197/ 198/ 199/ 200/ 201/ 202/ 203/ 204/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:204
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 197/ 198/ 199/ 200/ 201/ 202/ 203/ 204/ 205/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:205
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 197/ 198/ 199/ 200/ 201/ 202/ 203/ 204/ 205/ 206/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:206
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 197/ 198/ 199/ 200/ 201/ 202/ 203/ 204/ 205/ 206/ 207/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:207
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 197/ 198/ 199/ 200/ 201/ 202/ 203/ 204/ 205/ 206/ 207/ 208/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:208
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843574.613672
+--start is : 1330843574.613608
+--diff is 64.000000
+Packet 197 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.613990
+--start is : 1330843574.613608
+--diff is 382.000000
+Packet 198 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.614161
+--start is : 1330843574.613608
+--diff is 553.000000
+Packet 199 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.614326
+--start is : 1330843574.613608
+--diff is 718.000000
+Packet 200 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.614483
+--start is : 1330843574.613608
+--diff is 875.000000
+Packet 201 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.614640
+--start is : 1330843574.613608
+--diff is 1032.000000
+Packet 202 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.614797
+--start is : 1330843574.613608
+--diff is 1189.000000
+Packet 203 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.614976
+--start is : 1330843574.613608
+--diff is 1368.000000
+Packet 204 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.615250
+--start is : 1330843574.613608
+--diff is 1642.000000
+Packet 205 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.615912
+--start is : 1330843574.613608
+--diff is 2304.000000
+Packet 206 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.616367
+--start is : 1330843574.613608
+--diff is 2759.000000
+Packet 207 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.616869
+--start is : 1330843574.613608
+--diff is 3261.000000
+Packet 208 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[209] 
+209/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:209
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[209] 
+209/ 210/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:210
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[209] 
+209/ 210/ 211/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:211
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[209] 
+209/ 210/ 211/ 212/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:212
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[209] 
+209/ 210/ 211/ 212/ 213/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:213
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.633807
+--start is : 1330843574.633729
+--diff is 78.000000
+Packet 209 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 210/ 211/ 212/ 213/ 214/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:214
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.634227
+--start is : 1330843574.634176
+--diff is 51.000000
+Packet 210 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.634393
+--start is : 1330843574.634176
+--diff is 217.000000
+Packet 211 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 212/ 213/ 214/ 215/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:215
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 212/ 213/ 214/ 215/ 216/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:216
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 212/ 213/ 214/ 215/ 216/ 217/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:217
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.635721
+--start is : 1330843574.635662
+--diff is 59.000000
+Packet 212 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 213/ 214/ 215/ 216/ 217/ 218/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:218
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.636220
+--start is : 1330843574.636174
+--diff is 46.000000
+Packet 213 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.636412
+--start is : 1330843574.636174
+--diff is 238.000000
+Packet 214 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 215/ 216/ 217/ 218/ 219/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:219
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.636840
+--start is : 1330843574.636783
+--diff is 57.000000
+Packet 215 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 216/ 217/ 218/ 219/ 220/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:220
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.637282
+--start is : 1330843574.637225
+--diff is 57.000000
+Packet 216 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 217/ 218/ 219/ 220/ 221/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:221
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.637833
+--start is : 1330843574.637769
+--diff is 64.000000
+Packet 217 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 218/ 219/ 220/ 221/ 222/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:222
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.638365
+--start is : 1330843574.638198
+--diff is 167.000000
+Packet 218 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 219/ 220/ 221/ 222/ 223/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:223
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 219/ 220/ 221/ 222/ 223/ 224/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:224
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 219/ 220/ 221/ 222/ 223/ 224/ 225/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:225
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.639720
+--start is : 1330843574.639644
+--diff is 76.000000
+Packet 219 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.639915
+--start is : 1330843574.639644
+--diff is 271.000000
+Packet 220 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 221/ 222/ 223/ 224/ 225/ 226/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:226
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 221/ 222/ 223/ 224/ 225/ 226/ 227/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:227
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843574.641083
+--start is : 1330843574.640734
+--diff is 349.000000
+Packet 221 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.641641
+--start is : 1330843574.640734
+--diff is 907.000000
+Packet 222 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.642230
+--start is : 1330843574.640734
+--diff is 1496.000000
+Packet 223 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.642405
+--start is : 1330843574.640734
+--diff is 1671.000000
+Packet 224 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.642566
+--start is : 1330843574.640734
+--diff is 1832.000000
+Packet 225 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.642886
+--start is : 1330843574.640734
+--diff is 2152.000000
+Packet 226 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.643431
+--start is : 1330843574.640734
+--diff is 2697.000000
+Packet 227 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[228] 
+228/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:228
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[228] 
+228/ 229/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:229
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[228] 
+228/ 229/ 230/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:230
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[228] 
+228/ 229/ 230/ 231/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:231
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[228] 
+228/ 229/ 230/ 231/ 232/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:232
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[228] 
+228/ 229/ 230/ 231/ 232/ 233/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:233
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.654445
+--start is : 1330843574.654384
+--diff is 61.000000
+Packet 228 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.654671
+--start is : 1330843574.654384
+--diff is 287.000000
+Packet 229 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 230/ 231/ 232/ 233/ 234/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:234
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.655127
+--start is : 1330843574.655067
+--diff is 60.000000
+Packet 230 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 231/ 232/ 233/ 234/ 235/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:235
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 231/ 232/ 233/ 234/ 235/ 236/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:236
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.656107
+--start is : 1330843574.655998
+--diff is 109.000000
+Packet 231 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 232/ 233/ 234/ 235/ 236/ 237/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:237
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.656558
+--start is : 1330843574.656501
+--diff is 57.000000
+Packet 232 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 233/ 234/ 235/ 236/ 237/ 238/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:238
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.657012
+--start is : 1330843574.656966
+--diff is 46.000000
+Packet 233 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 234/ 235/ 236/ 237/ 238/ 239/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:239
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.657510
+--start is : 1330843574.657458
+--diff is 52.000000
+Packet 234 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.657682
+--start is : 1330843574.657458
+--diff is 224.000000
+Packet 235 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 236/ 237/ 238/ 239/ 240/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:240
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.658065
+--start is : 1330843574.658008
+--diff is 57.000000
+Packet 236 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 237/ 238/ 239/ 240/ 241/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:241
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 237/ 238/ 239/ 240/ 241/ 242/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:242
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.658981
+--start is : 1330843574.658922
+--diff is 59.000000
+Packet 237 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 238/ 239/ 240/ 241/ 242/ 243/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:243
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 238/ 239/ 240/ 241/ 242/ 243/ 244/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:244
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.659847
+--start is : 1330843574.659787
+--diff is 60.000000
+Packet 238 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.660016
+--start is : 1330843574.659787
+--diff is 229.000000
+Packet 239 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 240/ 241/ 242/ 243/ 244/ 245/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:245
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 240/ 241/ 242/ 243/ 244/ 245/ 246/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:246
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843574.660934
+--start is : 1330843574.660871
+--diff is 63.000000
+Packet 240 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.661362
+--start is : 1330843574.660871
+--diff is 491.000000
+Packet 241 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.661758
+--start is : 1330843574.660871
+--diff is 887.000000
+Packet 242 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.661999
+--start is : 1330843574.660871
+--diff is 1128.000000
+Packet 243 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.662607
+--start is : 1330843574.660871
+--diff is 1736.000000
+Packet 244 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.663382
+--start is : 1330843574.660871
+--diff is 2511.000000
+Packet 245 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.663810
+--start is : 1330843574.660871
+--diff is 2939.000000
+Packet 246 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[247] 
+247/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:247
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[247] 
+247/ 248/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:248
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[247] 
+247/ 248/ 249/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:249
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[247] 
+247/ 248/ 249/ 250/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:250
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[247] 
+247/ 248/ 249/ 250/ 251/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:251
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.673956
+--start is : 1330843574.673888
+--diff is 68.000000
+Packet 247 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.674126
+--start is : 1330843574.673888
+--diff is 238.000000
+Packet 248 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 249/ 250/ 251/ 252/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:252
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.674506
+--start is : 1330843574.674449
+--diff is 57.000000
+Packet 249 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 250/ 251/ 252/ 253/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:253
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 250/ 251/ 252/ 253/ 254/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:254
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 250/ 251/ 252/ 253/ 254/ 255/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:255
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.675814
+--start is : 1330843574.675762
+--diff is 52.000000
+Packet 250 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 251/ 252/ 253/ 254/ 255/ 256/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:256
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 251/ 252/ 253/ 254/ 255/ 256/ 257/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:257
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 251/ 252/ 253/ 254/ 255/ 256/ 257/ 258/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:258
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.676997
+--start is : 1330843574.676937
+--diff is 60.000000
+Packet 251 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 252/ 253/ 254/ 255/ 256/ 257/ 258/ 259/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:259
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 252/ 253/ 254/ 255/ 256/ 257/ 258/ 259/ 260/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:260
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ 252/ 253/ 254/ 255/ 256/ 257/ 258/ 259/ 260/ 261/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:261
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.678539
+--start is : 1330843574.678407
+--diff is 132.000000
+Packet 252 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ 253/ 254/ 255/ 256/ 257/ 258/ 259/ 260/ 261/ 262/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:262
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.678952
+--start is : 1330843574.678906
+--diff is 46.000000
+Packet 253 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 254/ 255/ 256/ 257/ 258/ 259/ 260/ 261/ 262/ 263/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:263
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 254/ 255/ 256/ 257/ 258/ 259/ 260/ 261/ 262/ 263/ 264/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:264
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ -1/ -1/ -1/ 254/ 255/ 256/ 257/ 258/ 259/ 260/ 261/ 262/ 263/ 264/ 265/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:265
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is : 1330843574.680265
+--start is : 1330843574.680191
+--diff is 74.000000
+Packet 254 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.681083
+--start is : 1330843574.680191
+--diff is 892.000000
+Packet 255 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.682400
+--start is : 1330843574.680191
+--diff is 2209.000000
+Packet 256 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.683002
+--start is : 1330843574.680191
+--diff is 2811.000000
+Packet 257 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.683793
+--start is : 1330843574.680191
+--diff is 3602.000000
+Packet 258 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.683973
+--start is : 1330843574.680191
+--diff is 3782.000000
+Packet 259 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.684133
+--start is : 1330843574.680191
+--diff is 3942.000000
+Packet 260 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.684396
+--start is : 1330843574.680191
+--diff is 4205.000000
+Packet 261 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.684989
+--start is : 1330843574.680191
+--diff is 4798.000000
+Packet 262 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.685553
+--start is : 1330843574.680191
+--diff is 5362.000000
+Packet 263 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.686378
+--start is : 1330843574.680191
+--diff is 6187.000000
+Packet 264 Acknowledged- Deleted from the delta list 
+
+--end is : 1330843574.687013
+--start is : 1330843574.680191
+--diff is 6822.000000
+Packet 265 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:266
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:267
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ 268/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:268
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ 268/ 269/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:269
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ 268/ 269/ 270/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:270
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ 268/ 269/ 270/ 271/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:271
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ 268/ 269/ 270/ 271/ 272/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:272
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ 268/ 269/ 270/ 271/ 272/ 273/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:273
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[266] 
+266/ 267/ 268/ 269/ 270/ 271/ 272/ 273/ 274/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:274
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.695776
+--start is : 1330843574.695634
+--diff is 142.000000
+Packet 266 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ 267/ 268/ 269/ 270/ 271/ 272/ 273/ 274/ 275/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:275
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.696316
+--start is : 1330843574.696269
+--diff is 47.000000
+Packet 267 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ 268/ 269/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:276
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.696748
+--start is : 1330843574.696671
+--diff is 77.000000
+Packet 268 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ 269/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:277
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+--end is : 1330843574.697171
+--start is : 1330843574.697129
+--diff is 42.000000
+Packet 269 Acknowledged- Deleted from the delta list 
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ 278/ -1/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:278
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ 278/ 279/ -1/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:279
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ 278/ 279/ 280/ -1/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:280
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ 278/ 279/ 280/ 281/ -1/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:281
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ 278/ 279/ 280/ 281/ 282/ -1/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:282
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ 278/ 279/ 280/ 281/ 282/ 283/ -1/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:283
+
+ WINDOW IS EMPTY-------DONT STOP SENT TO CLIENT
+
+ ############## WINDOW ############### 
+/ WINDOW BACK 0->[-1] 
+-1/ -1/ -1/ -1/ 270/ 271/ 272/ 273/ 274/ 275/ 276/ 277/ 278/ 279/ 280/ 281/ 282/ 283/ 284/ -1/ 
+ WINDOW Front 19 -> -1
+ ##################################### 
+
+SEQUENCE NUMBER OF THE PACKET SENT TO THE TIMER:284
+
+===== WINDOW IS FULL =====SLEEP SENT TO CLIENT
+
+--end is
